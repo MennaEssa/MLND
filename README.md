@@ -1,5 +1,7 @@
-Prerequisites:
+<h1> Udacity machine learning nano degree project [oct 16th 2018 cohort] </h1>
+<h2> Prerequisites: </h2>
+
 Jupyter notebook , numpy , pandas or just run in an anaconda environment.
 
-current projects:
+<h2> current finished projects: </h2>
 [X] Model evaluation and validation : Buston housing price predicitions.
