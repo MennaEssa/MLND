@@ -4,5 +4,6 @@
 Jupyter notebook , numpy , pandas ,matplotlib and scikit-learn or just run in an anaconda environment.
 
 <h2> current finished projects: </h2>
-[X] Model evaluation and validation : Buston housing price predicitions.
-[X] Supervised learning : finding charity donors for CharityML
+[X] Model evaluation and validation : Buston housing price predicitions. <br/>
+[X] Supervised learning : finding charity donors for CharityML. <br/>
+[X] Deep learning : Dog breed classifier with CNNs. <br/>
