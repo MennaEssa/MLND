@@ -7,3 +7,5 @@ Jupyter notebook , numpy , pandas ,matplotlib and scikit-learn or just run in an
 [X] Model evaluation and validation : Buston housing price predicitions. <br/>
 [X] Supervised learning : finding charity donors for CharityML. <br/>
 [X] Deep learning : Dog breed classifier with CNNs. <br/>
+[X] Unsupervised learning : Generating customer segments <br/>
+[X] Reinforcement learning : Teach a quadcopter how to fly <br/>
